@@ -43,6 +43,7 @@
 "..\..\output\test.o"
 "..\..\output\sensor-adc.o"
 "..\..\output\433_wiminet.o"
+"..\..\output\sensorinit.o"
 --library_type=microlib --strict --scatter "..\..\Output\Template.sct"
 --summary_stderr --info summarysizes --map --xref --callgraph --symbols
 --info sizes --info totals --info unused --info veneers

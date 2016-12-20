@@ -2,7 +2,7 @@
 ..\..\output\sensor-adc.o: ..\..\User\ADC\sensor-adc.h
 ..\..\output\sensor-adc.o: ..\..\Libraries\CMSIS\stm32f10x.h
 ..\..\output\sensor-adc.o: ..\..\Libraries\CMSIS\core_cm3.h
-..\..\output\sensor-adc.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\..\output\sensor-adc.o: D:\GAO\Keil\ARM\ARMCC\bin\..\include\stdint.h
 ..\..\output\sensor-adc.o: ..\..\Libraries\CMSIS\system_stm32f10x.h
 ..\..\output\sensor-adc.o: ..\..\User\stm32f10x_conf.h
 ..\..\output\sensor-adc.o: ..\..\Libraries\FWlib\inc\stm32f10x_bkp.h
@@ -22,4 +22,4 @@
 ..\..\output\sensor-adc.o: ..\..\Libraries\FWlib\inc\stm32f10x_wwdg.h
 ..\..\output\sensor-adc.o: ..\..\Libraries\FWlib\inc\misc.h
 ..\..\output\sensor-adc.o: ..\..\Libraries\FWlib\inc\stm32f10x_adc.h
-..\..\output\sensor-adc.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+..\..\output\sensor-adc.o: D:\GAO\Keil\ARM\ARMCC\bin\..\include\stdio.h

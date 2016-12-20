@@ -2,7 +2,7 @@
 ..\..\output\misc.o: ..\..\Libraries\FWlib\inc\misc.h
 ..\..\output\misc.o: ..\..\Libraries\CMSIS\stm32f10x.h
 ..\..\output\misc.o: ..\..\Libraries\CMSIS\core_cm3.h
-..\..\output\misc.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\..\output\misc.o: D:\GAO\Keil\ARM\ARMCC\bin\..\include\stdint.h
 ..\..\output\misc.o: ..\..\Libraries\CMSIS\system_stm32f10x.h
 ..\..\output\misc.o: ..\..\User\stm32f10x_conf.h
 ..\..\output\misc.o: ..\..\Libraries\FWlib\inc\stm32f10x_bkp.h

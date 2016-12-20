@@ -1,11 +1,11 @@
 ..\..\output\433_wiminet.o: ..\..\User\433_Wiminet\433_Wiminet.c
-..\..\output\433_wiminet.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
-..\..\output\433_wiminet.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+..\..\output\433_wiminet.o: D:\GAO\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+..\..\output\433_wiminet.o: D:\GAO\Keil\ARM\ARMCC\bin\..\include\string.h
 ..\..\output\433_wiminet.o: ..\..\User\433_Wiminet\Platform\API-Platform.h
 ..\..\output\433_wiminet.o: ..\..\User\433_Wiminet\433_Wiminet.h
 ..\..\output\433_wiminet.o: ..\..\Libraries\CMSIS\stm32f10x.h
 ..\..\output\433_wiminet.o: ..\..\Libraries\CMSIS\core_cm3.h
-..\..\output\433_wiminet.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\..\output\433_wiminet.o: D:\GAO\Keil\ARM\ARMCC\bin\..\include\stdint.h
 ..\..\output\433_wiminet.o: ..\..\Libraries\CMSIS\system_stm32f10x.h
 ..\..\output\433_wiminet.o: ..\..\User\stm32f10x_conf.h
 ..\..\output\433_wiminet.o: ..\..\Libraries\FWlib\inc\stm32f10x_bkp.h
@@ -27,6 +27,6 @@
 ..\..\output\433_wiminet.o: ..\..\User\SysTick\bsp_SysTick.h
 ..\..\output\433_wiminet.o: ..\..\User\gprs\gprs.h
 ..\..\output\433_wiminet.o: ..\..\User\Aider_Data_Protocol\AiderProtocol.h
-..\..\output\433_wiminet.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+..\..\output\433_wiminet.o: D:\GAO\Keil\ARM\ARMCC\bin\..\include\stdio.h
 ..\..\output\433_wiminet.o: ..\..\User\usart\bsp_usart.h
 ..\..\output\433_wiminet.o: ..\..\User\common\common.h

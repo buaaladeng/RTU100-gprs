@@ -351,7 +351,7 @@
               <MiscControls></MiscControls>
               <Define>STM32F10X_HD, USE_STDPERIPH_DRIVER</Define>
               <Undefine></Undefine>
-              <IncludePath>..\..\Libraries\CMSIS;..\..\User;..\..\Libraries\FWlib\inc;..\..\User\usart;..\..\User\TimBase;..\..\User\modbus;..\..\User\SysTick;..\..\User\gprs;..\..\User\rtc;..\..\User\WatchDog;..\..\User\Aider_Data_Protocol;..\..\User\Flash;..\..\User\433_Wiminet;..\..\User\433_Wiminet\Message;..\..\User\433_Wiminet\Platform;..\..\User\common;..\..\User\DS2780;..\..\User\ch4sensor;..\..\User\test;..\..\User\test;..\..\User\ADC;..\..\User\ADC;..\..\User\433_Wiminet</IncludePath>
+              <IncludePath>..\..\Libraries\CMSIS;..\..\User;..\..\Libraries\FWlib\inc;..\..\User\usart;..\..\User\TimBase;..\..\User\modbus;..\..\User\SysTick;..\..\User\gprs;..\..\User\rtc;..\..\User\WatchDog;..\..\User\Aider_Data_Protocol;..\..\User\Flash;..\..\User\433_Wiminet;..\..\User\433_Wiminet\Message;..\..\User\433_Wiminet\Platform;..\..\User\common;..\..\User\DS2780;..\..\User\ch4sensor;..\..\User\test;..\..\User\test;..\..\User\ADC;..\..\User\ADC;..\..\User\433_Wiminet;..\..\User\SensorInit;..\..\User\SensorInit;..\..\User\SensorInit</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>
@@ -681,6 +681,11 @@
               <FileName>433_Wiminet.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\..\User\433_Wiminet\433_Wiminet.c</FilePath>
+            </File>
+            <File>
+              <FileName>SensorInit.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\..\User\SensorInit\SensorInit.c</FilePath>
             </File>
           </Files>
         </Group>

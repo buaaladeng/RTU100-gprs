@@ -1,7 +1,7 @@
 ..\..\output\common.o: ..\..\User\common\common.c
 ..\..\output\common.o: ..\..\Libraries\CMSIS\stm32f10x.h
 ..\..\output\common.o: ..\..\Libraries\CMSIS\core_cm3.h
-..\..\output\common.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\..\output\common.o: D:\GAO\Keil\ARM\ARMCC\bin\..\include\stdint.h
 ..\..\output\common.o: ..\..\Libraries\CMSIS\system_stm32f10x.h
 ..\..\output\common.o: ..\..\User\stm32f10x_conf.h
 ..\..\output\common.o: ..\..\Libraries\FWlib\inc\stm32f10x_bkp.h
@@ -22,10 +22,10 @@
 ..\..\output\common.o: ..\..\Libraries\FWlib\inc\misc.h
 ..\..\output\common.o: ..\..\User\stm32f10x_it.h
 ..\..\output\common.o: ..\..\User\usart\bsp_usart.h
-..\..\output\common.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+..\..\output\common.o: D:\GAO\Keil\ARM\ARMCC\bin\..\include\stdio.h
 ..\..\output\common.o: ..\..\User\TimBase\bsp_TiMbase.h
 ..\..\output\common.o: ..\..\User\SysTick\bsp_SysTick.h
-..\..\output\common.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+..\..\output\common.o: D:\GAO\Keil\ARM\ARMCC\bin\..\include\string.h
 ..\..\output\common.o: ..\..\User\rtc\bsp_rtc.h
 ..\..\output\common.o: ..\..\User\rtc\bsp_date.h
 ..\..\output\common.o: ..\..\User\Aider_Data_Protocol\AiderProtocol.h
@@ -33,3 +33,4 @@
 ..\..\output\common.o: ..\..\User\WatchDog\WatchDog.h
 ..\..\output\common.o: ..\..\User\common\common.h
 ..\..\output\common.o: ..\..\User\gprs\gprs.h
+..\..\output\common.o: ..\..\User\Flash\SPI_Flash.h

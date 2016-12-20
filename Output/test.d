@@ -2,7 +2,7 @@
 ..\..\output\test.o: ..\..\User\test\test.h
 ..\..\output\test.o: ..\..\Libraries\CMSIS\stm32f10x.h
 ..\..\output\test.o: ..\..\Libraries\CMSIS\core_cm3.h
-..\..\output\test.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\..\output\test.o: D:\GAO\Keil\ARM\ARMCC\bin\..\include\stdint.h
 ..\..\output\test.o: ..\..\Libraries\CMSIS\system_stm32f10x.h
 ..\..\output\test.o: ..\..\User\stm32f10x_conf.h
 ..\..\output\test.o: ..\..\Libraries\FWlib\inc\stm32f10x_bkp.h
@@ -24,7 +24,7 @@
 ..\..\output\test.o: ..\..\User\Flash\SPI_Flash.h
 ..\..\output\test.o: ..\..\User\Aider_Data_Protocol\AiderProtocol.h
 ..\..\output\test.o: ..\..\User\433_Wiminet\Platform\API-Platform.h
-..\..\output\test.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+..\..\output\test.o: D:\GAO\Keil\ARM\ARMCC\bin\..\include\stdio.h
 ..\..\output\test.o: ..\..\User\common\common.h
 ..\..\output\test.o: ..\..\User\rtc\bsp_rtc.h
 ..\..\output\test.o: ..\..\User\rtc\bsp_date.h
@@ -32,5 +32,5 @@
 ..\..\output\test.o: ..\..\User\gprs\gprs.h
 ..\..\output\test.o: ..\..\User\SysTick\bsp_SysTick.h
 ..\..\output\test.o: ..\..\User\modbus\modbus.h
-..\..\output\test.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+..\..\output\test.o: D:\GAO\Keil\ARM\ARMCC\bin\..\include\string.h
 ..\..\output\test.o: ..\..\User\433_Wiminet\433_Wiminet.h

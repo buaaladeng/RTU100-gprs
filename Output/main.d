@@ -1,7 +1,7 @@
 ..\..\output\main.o: ..\..\User\main.c
 ..\..\output\main.o: ..\..\Libraries\CMSIS\stm32f10x.h
 ..\..\output\main.o: ..\..\Libraries\CMSIS\core_cm3.h
-..\..\output\main.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\..\output\main.o: D:\GAO\Keil\ARM\ARMCC\bin\..\include\stdint.h
 ..\..\output\main.o: ..\..\Libraries\CMSIS\system_stm32f10x.h
 ..\..\output\main.o: ..\..\User\stm32f10x_conf.h
 ..\..\output\main.o: ..\..\Libraries\FWlib\inc\stm32f10x_bkp.h
@@ -20,15 +20,15 @@
 ..\..\output\main.o: ..\..\Libraries\FWlib\inc\stm32f10x_usart.h
 ..\..\output\main.o: ..\..\Libraries\FWlib\inc\stm32f10x_wwdg.h
 ..\..\output\main.o: ..\..\Libraries\FWlib\inc\misc.h
-..\..\output\main.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
-..\..\output\main.o: C:\Keil\ARM\ARMCC\bin\..\include\time.h
+..\..\output\main.o: D:\GAO\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+..\..\output\main.o: D:\GAO\Keil\ARM\ARMCC\bin\..\include\time.h
 ..\..\output\main.o: ..\..\User\stm32f10x_it.h
 ..\..\output\main.o: ..\..\User\usart\bsp_usart.h
-..\..\output\main.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+..\..\output\main.o: D:\GAO\Keil\ARM\ARMCC\bin\..\include\stdio.h
 ..\..\output\main.o: ..\..\User\TimBase\bsp_TiMbase.h
 ..\..\output\main.o: ..\..\User\modbus\modbus.h
 ..\..\output\main.o: ..\..\User\SysTick\bsp_SysTick.h
-..\..\output\main.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+..\..\output\main.o: D:\GAO\Keil\ARM\ARMCC\bin\..\include\string.h
 ..\..\output\main.o: ..\..\User\gprs\gprs.h
 ..\..\output\main.o: ..\..\User\Aider_Data_Protocol\AiderProtocol.h
 ..\..\output\main.o: ..\..\User\433_Wiminet\Platform\API-Platform.h
@@ -42,3 +42,4 @@
 ..\..\output\main.o: ..\..\User\433_Wiminet\433_Wiminet.h
 ..\..\output\main.o: ..\..\User\ADC\sensor-adc.h
 ..\..\output\main.o: ..\..\Libraries\FWlib\inc\stm32f10x_adc.h
+..\..\output\main.o: ..\..\User\SensorInit\SensorInit.h

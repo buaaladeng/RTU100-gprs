@@ -2,7 +2,7 @@
 ..\..\output\flash.o: ..\..\User\Flash\SPI_Flash.h
 ..\..\output\flash.o: ..\..\Libraries\CMSIS\stm32f10x.h
 ..\..\output\flash.o: ..\..\Libraries\CMSIS\core_cm3.h
-..\..\output\flash.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\..\output\flash.o: D:\GAO\Keil\ARM\ARMCC\bin\..\include\stdint.h
 ..\..\output\flash.o: ..\..\Libraries\CMSIS\system_stm32f10x.h
 ..\..\output\flash.o: ..\..\User\stm32f10x_conf.h
 ..\..\output\flash.o: ..\..\Libraries\FWlib\inc\stm32f10x_bkp.h
@@ -23,4 +23,4 @@
 ..\..\output\flash.o: ..\..\Libraries\FWlib\inc\misc.h
 ..\..\output\flash.o: ..\..\User\SysTick\bsp_SysTick.h
 ..\..\output\flash.o: ..\..\User\usart\bsp_usart.h
-..\..\output\flash.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+..\..\output\flash.o: D:\GAO\Keil\ARM\ARMCC\bin\..\include\stdio.h

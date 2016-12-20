@@ -2,7 +2,7 @@
 ..\..\output\bsp_rtc.o: ..\..\User\rtc\bsp_rtc.h
 ..\..\output\bsp_rtc.o: ..\..\Libraries\CMSIS\stm32f10x.h
 ..\..\output\bsp_rtc.o: ..\..\Libraries\CMSIS\core_cm3.h
-..\..\output\bsp_rtc.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\..\output\bsp_rtc.o: D:\GAO\Keil\ARM\ARMCC\bin\..\include\stdint.h
 ..\..\output\bsp_rtc.o: ..\..\Libraries\CMSIS\system_stm32f10x.h
 ..\..\output\bsp_rtc.o: ..\..\User\stm32f10x_conf.h
 ..\..\output\bsp_rtc.o: ..\..\Libraries\FWlib\inc\stm32f10x_bkp.h
@@ -23,8 +23,8 @@
 ..\..\output\bsp_rtc.o: ..\..\Libraries\FWlib\inc\misc.h
 ..\..\output\bsp_rtc.o: ..\..\User\rtc\bsp_date.h
 ..\..\output\bsp_rtc.o: ..\..\User\usart\bsp_usart.h
-..\..\output\bsp_rtc.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+..\..\output\bsp_rtc.o: D:\GAO\Keil\ARM\ARMCC\bin\..\include\stdio.h
 ..\..\output\bsp_rtc.o: ..\..\User\Aider_Data_Protocol\AiderProtocol.h
 ..\..\output\bsp_rtc.o: ..\..\User\433_Wiminet\Platform\API-Platform.h
-..\..\output\bsp_rtc.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+..\..\output\bsp_rtc.o: D:\GAO\Keil\ARM\ARMCC\bin\..\include\string.h
 ..\..\output\bsp_rtc.o: ..\..\User\gprs\gprs.h

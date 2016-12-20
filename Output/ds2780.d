@@ -2,7 +2,7 @@
 ..\..\output\ds2780.o: ..\..\User\DS2780\DS2780.h
 ..\..\output\ds2780.o: ..\..\Libraries\CMSIS\stm32f10x.h
 ..\..\output\ds2780.o: ..\..\Libraries\CMSIS\core_cm3.h
-..\..\output\ds2780.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\..\output\ds2780.o: D:\GAO\Keil\ARM\ARMCC\bin\..\include\stdint.h
 ..\..\output\ds2780.o: ..\..\Libraries\CMSIS\system_stm32f10x.h
 ..\..\output\ds2780.o: ..\..\User\stm32f10x_conf.h
 ..\..\output\ds2780.o: ..\..\Libraries\FWlib\inc\stm32f10x_bkp.h
@@ -23,5 +23,5 @@
 ..\..\output\ds2780.o: ..\..\Libraries\FWlib\inc\misc.h
 ..\..\output\ds2780.o: ..\..\User\SysTick\bsp_SysTick.h
 ..\..\output\ds2780.o: ..\..\User\usart\bsp_usart.h
-..\..\output\ds2780.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+..\..\output\ds2780.o: D:\GAO\Keil\ARM\ARMCC\bin\..\include\stdio.h
 ..\..\output\ds2780.o: ..\..\User\Flash\SPI_Flash.h

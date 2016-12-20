@@ -2,7 +2,7 @@
 ..\..\output\modbus.o: ..\..\User\modbus\modbus.h
 ..\..\output\modbus.o: ..\..\Libraries\CMSIS\stm32f10x.h
 ..\..\output\modbus.o: ..\..\Libraries\CMSIS\core_cm3.h
-..\..\output\modbus.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\..\output\modbus.o: D:\GAO\Keil\ARM\ARMCC\bin\..\include\stdint.h
 ..\..\output\modbus.o: ..\..\Libraries\CMSIS\system_stm32f10x.h
 ..\..\output\modbus.o: ..\..\User\stm32f10x_conf.h
 ..\..\output\modbus.o: ..\..\Libraries\FWlib\inc\stm32f10x_bkp.h
@@ -22,7 +22,7 @@
 ..\..\output\modbus.o: ..\..\Libraries\FWlib\inc\stm32f10x_wwdg.h
 ..\..\output\modbus.o: ..\..\Libraries\FWlib\inc\misc.h
 ..\..\output\modbus.o: ..\..\User\usart\bsp_usart.h
-..\..\output\modbus.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
-..\..\output\modbus.o: C:\Keil\ARM\ARMCC\bin\..\include\math.h
+..\..\output\modbus.o: D:\GAO\Keil\ARM\ARMCC\bin\..\include\stdio.h
+..\..\output\modbus.o: D:\GAO\Keil\ARM\ARMCC\bin\..\include\math.h
 ..\..\output\modbus.o: ..\..\User\SysTick\bsp_SysTick.h
-..\..\output\modbus.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+..\..\output\modbus.o: D:\GAO\Keil\ARM\ARMCC\bin\..\include\string.h

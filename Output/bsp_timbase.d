@@ -2,7 +2,7 @@
 ..\..\output\bsp_timbase.o: ..\..\User\TimBase\bsp_TiMbase.h
 ..\..\output\bsp_timbase.o: ..\..\Libraries\CMSIS\stm32f10x.h
 ..\..\output\bsp_timbase.o: ..\..\Libraries\CMSIS\core_cm3.h
-..\..\output\bsp_timbase.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\..\output\bsp_timbase.o: D:\GAO\Keil\ARM\ARMCC\bin\..\include\stdint.h
 ..\..\output\bsp_timbase.o: ..\..\Libraries\CMSIS\system_stm32f10x.h
 ..\..\output\bsp_timbase.o: ..\..\User\stm32f10x_conf.h
 ..\..\output\bsp_timbase.o: ..\..\Libraries\FWlib\inc\stm32f10x_bkp.h
